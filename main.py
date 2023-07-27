@@ -1,0 +1,1 @@
+def randint(min: number, max: number): NumberFormat
